@@ -1,0 +1,2 @@
+operating system used windows 10
+installed liabraries scrapy and matplotlib using pip installed 
